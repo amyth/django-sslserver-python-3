@@ -2,3 +2,6 @@ lint
 *.pyc
 dist
 MANIFEST
+
+#pyenv
+.python-version
